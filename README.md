@@ -4,5 +4,5 @@
 # Yenifer Hernandez Martinez
 # Cuatrimestre: 4to
 # Grupo: TDSM-G1
-# 001 - Ejercicios de Lógica con JS [Básicos]
+# Actividad: 001 - Ejercicios de Lógica con JS [Básicos]
 
